@@ -1,0 +1,12 @@
+Something must be written here
+This file is a test input data file
+Strictly for recreational purposes :P 
+Anyway, let's put some random data here 
+12
+3
+4
+57898
+John
+Mila kunis is damn hot and then there is Scarlett ! :D 
+I use VIM btw. 
+ 
