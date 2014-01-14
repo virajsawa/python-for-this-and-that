@@ -3,7 +3,7 @@ import sys
 import time
 
 def chat():
- msg = os.system("nc -l 262626 > buffer; cat buffer")
+ msg = str(os.system("nc -l 262626 > buffer; cat buffer"))
  print("Guest : "+msg+"\n")
  mymsg = raw_input("Me    : ")
  if(mymsg == "quit"):
